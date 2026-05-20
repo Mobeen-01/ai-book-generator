@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+openai
+supabase
+python-dotenv
+python-docx
+reportlab
+requests
+pydantic
+openpyxl
+pandas
+streamlit
+google-generativeai
+groq
+reportlab
