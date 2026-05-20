@@ -28,8 +28,8 @@ An automated book generation system that uses AI (Groq/LLaMA) to write full book
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Mobeen-01/ai-book-generator.git
+cd ai-book-generator
 ```
 
 ### 2. Install dependencies
